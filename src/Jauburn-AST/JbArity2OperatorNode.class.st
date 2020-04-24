@@ -1,3 +1,6 @@
+"
+done
+"
 Class {
 	#name : #JbArity2OperatorNode,
 	#superclass : #Object,

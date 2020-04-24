@@ -1,3 +1,6 @@
+"
+done
+"
 Class {
 	#name : #JbConstantExpressionNode,
 	#superclass : #Object,
